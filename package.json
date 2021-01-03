@@ -1,0 +1,14 @@
+{
+  "name": "dataVisualizationProject",
+  "version": "1.0.0",
+  "description": "Data visualization Javascript project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Joe Santiago <joe.santiago@partner.sprinklr.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  }
+}
